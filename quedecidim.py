@@ -2,7 +2,7 @@
 from bs4 import BeautifulSoup
 import requests, time, re, csv
 
-URL0="https://participaciointerna.diba.cat/processes/la-intradiba/f/223/proposals?component_id=223&participatory_process_slug=la-intradiba&per_page=100"
+URL0="https://someURL/tothe/Proposals/Page?component_id=223&participatory_process_slug=the-votations-name&per_page=100"
 CSV_FILE="QueDecidim.csv"
 
 data = requests.get(URL0).text
