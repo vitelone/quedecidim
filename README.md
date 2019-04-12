@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This tiny script shows the current state of votation in some proposal on the Decdidim platform, and also records it as a CSV fils, for later reference and analysis.
+This tiny script shows the current state of votation in some proposal on the Decdidim platform, and also records it as a CSV file for later reference and analysis.
 
 ### Goals
 
